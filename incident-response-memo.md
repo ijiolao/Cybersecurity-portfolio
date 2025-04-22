@@ -1,18 +1,18 @@
 # 📄 VENDOR INCIDENT RESPONSE REVIEW MEMORANDUM
 
 **TO:** Head of IT; Head of Legal; Head of Compliance; Vendor Management Lead  
-**FROM:** [Your Name], *[Your Title – e.g., Information Security Analyst]*  
+**FROM:** Straw Hat, *Information Security Analyst*  
 **DATE:** April 22, 2025  
-**SUBJECT:** Initial Review & Risk Assessment – Security Incident at Third-Party Vendor DataProcess Inc.  
+**SUBJECT:** Initial Review & Risk Assessment – Security Incident at Third-Party Vendor KaidoData Inc.  
 **REF:** `INC-20250421-DP`
 
 ---
 
 ## 1. Executive Summary
 
-This memo provides an initial assessment of a **security incident** reported by our critical third-party vendor, **DataProcess Inc.**, provider of CRM data enrichment services.
+This memo provides an initial assessment of a **security incident** reported by our critical third-party vendor, **KaidoData Inc.**, provider of CRM data enrichment services.
 
-On **April 21, 2025**, DataProcess Inc. confirmed a **ransomware attack** impacting their production environment. As of April 22, 09:30 AM BST, there is a **high likelihood** that **MyCompany Personally Identifiable Information (PII)** has been **exfiltrated**.
+On **April 21, 2025**, KaidoData Inc. confirmed a **ransomware attack** impacting their production environment. As of April 22, 09:30 AM BST, there is a **high likelihood** that **Luffy Inc Personally Identifiable Information (PII)** has been **exfiltrated**.
 
 The incident presents serious **regulatory (GDPR)**, **reputational**, and **operational risks**. Vendor communication has been reasonably timely and increasingly transparent. Internal response actions are underway.
 
@@ -22,10 +22,10 @@ The incident presents serious **regulatory (GDPR)**, **reputational**, and **ope
 
 | Date/Time       | Event |
 |------------------|-------|
-| Apr 21, 10:00    | Initial vague email notification from DataProcess Inc. regarding potential ransomware. |
-| Apr 21, 10:15    | MyCompany internal incident response process activated (`INC-20250421-DP`). |
-| Apr 21, 11:30    | Urgent information request sent to DataProcess Inc. (impact, data scope, timeline, containment). |
-| Apr 21, 16:30    | Response from Jane Doe (DataProcess Inc. Head of Security): Ransomware confirmed; PII systems impacted; CyberResponse Ltd. engaged; services offline; data exfiltration uncertain. |
+| Apr 21, 10:00    | Initial vague email notification from KaidoData Inc. regarding potential ransomware. |
+| Apr 21, 10:15    | Luffy Inc internal incident response process activated (`INC-20250421-DP`). |
+| Apr 21, 11:30    | Urgent information request sent to KaidoData Inc. (impact, data scope, timeline, containment). |
+| Apr 21, 16:30    | Response from Kizaru (KaidoData Inc. Head of Security): Ransomware confirmed; PII systems impacted; CyberResponse Ltd. engaged; services offline; data exfiltration uncertain. |
 | Apr 22, 09:30    | Update: LockBit 3.0 ransomware confirmed; suspected access window Apr 19–21; high likelihood of PII exfiltration; NCSC notified; backup restoration in progress. |
 
 ---
@@ -34,20 +34,20 @@ The incident presents serious **regulatory (GDPR)**, **reputational**, and **ope
 
 - **Timeliness:** Initial notice was reasonably prompt. Follow-up updates have met committed timelines.  
 - **Transparency:** Increasing transparency; confirmation of potential PII exfiltration is a critical disclosure.  
-- **Cooperation:** Vendor has engaged forensics (CyberResponse Ltd.) and provided a POC (Jane Doe).  
+- **Cooperation:** Vendor has engaged forensics (ZoroResponse Ltd.) and provided a POC (Jane Doe).  
 - **Areas to Monitor:**  
   - Restoration ETA still unknown  
-  - Scope of MyCompany data impacted pending forensic confirmation  
+  - Scope of Luffy Inc data impacted pending forensic confirmation  
 
 ---
 
-## 4. Potential Risks & Impact to MyCompany
+## 4. Potential Risks & Impact to Luffy Inc
 
 - 🔓 **Data Breach (PII):** High probability of customer PII compromise (names, contact info, etc.)  
 - ⚖️ **Regulatory Impact:** GDPR breach notification (72-hour rule) likely triggered; ICO involvement expected  
 - 📉 **Reputational Damage:** Risk of negative public/customer perception if response is mishandled  
 - 🚫 **Operational Disruption:** CRM Enrichment service outage affects lead qualification, campaigns  
-- 📄 **Contractual Issues:** Possible breach of data security terms by DataProcess Inc. (pending Legal review)
+- 📄 **Contractual Issues:** Possible breach of data security terms by KaidoData Inc. (pending Legal review)
 
 ---
 
@@ -55,7 +55,7 @@ The incident presents serious **regulatory (GDPR)**, **reputational**, and **ope
 *(Agreed Internally – April 22, 1:00 PM)*
 
 1. **ICO Notification:** Legal/Compliance to draft and submit notification to the ICO.  
-2. **Contract Review:** Legal to review contract with DataProcess Inc. for liability/security terms.  
+2. **Contract Review:** Legal to review contract with KaidoData Inc. for liability/security terms.  
 3. **Vendor Communication:** Maintain daily contact with POC (Jane Doe); request preliminary forensic results on MyCompany data.  
 4. **Operational Impact Assessment:** IT and business units to quantify disruption and propose alternatives.  
 5. **Internal Security Checks:** Security team to validate no compromise at integration points.  
@@ -68,6 +68,6 @@ The incident presents serious **regulatory (GDPR)**, **reputational**, and **ope
 
 This is a **critical incident** involving likely **PII compromise** by a key third-party vendor. Coordination across **Security, Legal, Compliance, IT, and Vendor Management** is essential for an effective response.
 
-> 🔄 Updates will follow as new information becomes available from DataProcess Inc. and internal investigations.
+> 🔄 Updates will follow as new information becomes available from KaidoData Inc. and internal investigations.
 
 ---
